@@ -1,6 +1,6 @@
 # SYNCHRON-V
 
-1. ## Introduction
+## Introduction
   - ## What is SYNCHRON-V?
     -SYNCHRON-V is a multi disciplined software solutions company.
 
