@@ -1,9 +1,8 @@
 # SYNCHRON-V
 
-## Introduction
+1. ## Introduction
+  - ## What is SYNCHRON-V?
+    -SYNCHRON-V is a multi disciplined software solutions company.
 
-- ## What is SYNCHRON-V?
-SYNCHRON-V is a multi disciplined software solutions company.
-
-## Vision
-## Founders
+2. ## Vision
+3. ## Founders
