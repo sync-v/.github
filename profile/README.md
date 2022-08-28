@@ -13,3 +13,5 @@ Our Vision at SYNCHRON-V is to bring up our company to an international standard
 We focus on delivering the product right and also developing the right product for our clients. SYNCHRON-V instantly recognizes and responds to the shifting digital world, enabling businesses to strengthen their market presence.
 
 ## Founders
+
+The group of individuals who made this happen:
