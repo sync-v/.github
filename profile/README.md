@@ -2,7 +2,7 @@
 
 ##### Table of Contents  
 [INTRODUCTION](#INTRODUCTION)  
-[Vision](#VISION)      
+[VISION](#VISION)      
 <a name="INTRODUCTION"/>
 <a name="VISION"/>
 
