@@ -1,5 +1,8 @@
 # SYNCHRON-V
 
+## Introduction
+## Vision
+## Founders
 <!--
 
 **Here are some ideas to get you started:**
